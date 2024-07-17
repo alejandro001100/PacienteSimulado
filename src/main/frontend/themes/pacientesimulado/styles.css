@@ -1,0 +1,20 @@
+@import url('./main-layout.css');
+@import url('./views/disponibilidadsemanade-clases-view.css');
+@import url('./views/reserva-programa-paciente-simulado-actor-view.css');
+@import url('./views/agendar-reserva-view.css');
+@import url('./views/seleccionarpacientes-view.css');
+@import url('./views/entrenamientodeactores-view.css');
+@import url('./views/solicitudesdereserva-view.css');
+@import url('./views/gestion-usuarios-view.css');
+@import url('@fontsource/open-sans/index.css');    html {
+      --lumo-primary-color-50pct: hsla(138, 65%, 35%, 0.5);
+      --lumo-primary-color-10pct: hsla(138, 65%, 35%, 0.1);
+      --lumo-success-color-50pct: hsla(145, 58%, 22%, 0.5);
+      --lumo-success-color-10pct: hsla(145, 58%, 22%, 0.1);
+      --lumo-primary-color: hsla(138, 65%, 35%, 0.62);
+      --lumo-primary-text-color: hsl(146, 60%, 22%);
+      --lumo-success-color: hsl(145, 58%, 22%);
+      --lumo-success-text-color: hsl(145, 62%, 33%);
+--lumo-font-family: Open Sans;
+
+    }
